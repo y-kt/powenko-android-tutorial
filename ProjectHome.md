@@ -1,0 +1,1 @@
+This project collets android sample code, If you want to learn android Language, this samples code will help you to understand, the Document please see http://www.powenko.com/en/
